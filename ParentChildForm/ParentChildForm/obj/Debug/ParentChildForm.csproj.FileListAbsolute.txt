@@ -1,0 +1,16 @@
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\bin\Debug\ParentChildForm.exe.config
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\bin\Debug\ParentChildForm.exe
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\bin\Debug\ParentChildForm.pdb
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.csprojResolveAssemblyReference.cache
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.mainForm.resources
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.Properties.Resources.resources
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.csproj.GenerateResource.Cache
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.exe
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.pdb
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\bin\Debug\MetroFramework.Design.dll
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\bin\Debug\MetroFramework.dll
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\bin\Debug\MetroFramework.Fonts.dll
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.facbookForm.resources
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.instagramForm.resources
+c:\users\jems\documents\visual studio 2012\Projects\ParentChildForm\ParentChildForm\obj\Debug\ParentChildForm.twitterForm.resources
